@@ -40,6 +40,8 @@ public:
     std::vector<std::string> store_client_info;
     std::vector<std::string> received_lines;
     
+    //MyThread replay;
+    
     
 
 };
